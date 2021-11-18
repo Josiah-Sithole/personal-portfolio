@@ -1,8 +1,8 @@
-### Personal Portfolio
+## Personal Portfolio
 
- # Infomation Included;
+ ### Summary
 
- * About Josiah Sithole
+ * About 
 
  * Education 
 
@@ -16,4 +16,6 @@
 
  * npm run dev 
 
+ ### Contact
  
+ * [LinkedIn](https://www.linkedin.com/in/josiah-sithole-40480b222/)
